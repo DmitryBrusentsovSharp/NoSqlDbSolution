@@ -1,0 +1,10 @@
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.deps.json
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.dll
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.pdb
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.AssemblyReference.cache
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfoInputs.cache
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfo.cs
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.dll
+D:\Sharp_Developers\learning\NoSqlDbSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.pdb
