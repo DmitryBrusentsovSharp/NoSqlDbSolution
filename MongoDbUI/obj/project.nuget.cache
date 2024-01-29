@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "it2ykz/R53DbkPxxZ6OJeDBJuOVIGzlxtrKToj421U7HNINhi/h/afxivCC+BIouonteu5kuY7cT5hBQXFXoaw==",
+  "dgSpecHash": "8gbqpjmev9NuHsj+vwIPVdiNMNK0cHMsX/wxZKJ7r3zVAEvcj8RIrtFUlOtQ/7FOVEYiue/jsKJSqKpi4tGC3g==",
   "success": true,
-  "projectFilePath": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\MongoDbUI\\MongoDbUI.csproj",
+  "projectFilePath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\MongoDbUI\\MongoDbUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dmitry\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Dmitry\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

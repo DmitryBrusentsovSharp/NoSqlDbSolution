@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "06gJTn9adxMpYXhC7/QCU0Vdpm3ZzRGvs1ARCi9DQcjqOpzlVmOO+b0ERPun4KHJd3gLgAAiDRM0+EsyS3Ln+g==",
+  "dgSpecHash": "LkpI7YSsMcaaDNTLdUTJtgn7M32UYNZ90wDRN2DUjtdrEfd87KLuSzMno387rfnN7XIK5OBvLLhLziE5PifY1Q==",
   "success": true,
-  "projectFilePath": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj",
+  "projectFilePath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dmitry\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Dmitry\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

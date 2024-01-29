@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
+    "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+    "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectUniqueName": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "projectName": "DataAccessLibrary",
-        "projectPath": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectPath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\obj\\",
+        "outputPath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

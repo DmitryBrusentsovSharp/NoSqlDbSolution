@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0K3v3ULWjiMiIZOkBbDMophL5i3lxeoFCZpS/cVhKdN1eXxpFYkClVbsASKyWmhZ9X/677jh8+qSsM3JwK+hQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\ApiDBUI\\ApiDBUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitry\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1422,11 +1422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\MongoDbUI\\MongoDbUI.csproj",
+      "projectUniqueName": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\MongoDbUI\\MongoDbUI.csproj",
       "projectName": "MongoDbUI",
-      "projectPath": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\MongoDbUI\\MongoDbUI.csproj",
+      "projectPath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\MongoDbUI\\MongoDbUI.csproj",
       "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-      "outputPath": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\MongoDbUI\\obj\\",
+      "outputPath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\MongoDbUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1447,8 +1447,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj": {
-              "projectPath": "D:\\Sharp_Developers\\learning\\NoSqlDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj"
+            "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+              "projectPath": "D:\\Sharp_Developers\\learning\\NoSQLDbSolution\\DataAccessLibrary\\DataAccessLibrary.csproj"
             }
           }
         }
